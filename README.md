@@ -41,7 +41,7 @@ If the files are identical, their corresponding hashes will be the same:
 If the files are identical, build the composite flash ROM from the official Zoom firmware, using the provided [Python script](create-firmware-full-4MB.py):
 ![Alt text](/images/component-files.png)
 
-On a Mac, run to create the MS70CDR_FIRMWARE_FULL_4MB.bin composite ROM file:
+On a Mac, to create the MS70CDR_FIRMWARE_FULL_4MB.bin composite ROM file, run:
 
 > python3 create-firmware-full-4MB.py
 
